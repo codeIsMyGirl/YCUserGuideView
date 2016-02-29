@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'YCUserGuideView_Example', :exclusive => true do
+  pod 'YCUserGuideView', :path => '../'
+end
+
+target 'YCUserGuideView_Tests', :exclusive => true do
+  pod 'YCUserGuideView', :path => '../'
+
+  
+end
