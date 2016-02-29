@@ -1,0 +1,6 @@
+framework module YCUserGuideView {
+  umbrella header "YCUserGuideView-umbrella.h"
+
+  export *
+  module * { export * }
+}

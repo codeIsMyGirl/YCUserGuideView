@@ -1,0 +1,14 @@
+PODS:
+  - YCUserGuideView (0.1.0)
+
+DEPENDENCIES:
+  - YCUserGuideView (from `../`)
+
+EXTERNAL SOURCES:
+  YCUserGuideView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YCUserGuideView: df8a33f841b2cf4a23551c02eb2d6ad56309c7bb
+
+COCOAPODS: 0.39.0

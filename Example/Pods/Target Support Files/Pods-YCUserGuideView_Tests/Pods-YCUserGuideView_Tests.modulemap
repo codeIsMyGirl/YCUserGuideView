@@ -1,0 +1,6 @@
+framework module Pods_YCUserGuideView_Tests {
+  umbrella header "Pods-YCUserGuideView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
